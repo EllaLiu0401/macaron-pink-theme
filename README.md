@@ -11,14 +11,15 @@
 
 ## ✨ Preview
 
-<!-- Drop screenshots here before publishing:
-     - screenshots/editor.png
-     - screenshots/sidebar.png
-     - screenshots/terminal.png
-     - screenshots/markdown.png
--->
+![Pink Lullaby — editor preview](./screenshots/01-editor.png)
 
-![Pink Lullaby — editor preview](./screenshots/editor.png)
+### Syntax up close
+
+![Pink Lullaby — syntax highlighting](./screenshots/02-syntax.png)
+
+### Palette
+
+![Pink Lullaby — palette](./screenshots/03-palette.png)
 
 ---
 

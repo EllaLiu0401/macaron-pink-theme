@@ -2,6 +2,11 @@
 
 All notable changes to the **Pink Lullaby** theme will be documented in this file.
 
+## [0.0.2] — Screenshots
+
+### Added
+- Editor, syntax close-up, and palette screenshots in the README / marketplace page
+
 ## [0.0.1] — Initial release
 
 ### Added
