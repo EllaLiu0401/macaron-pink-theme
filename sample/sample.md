@@ -22,6 +22,13 @@ code --install-extension macaron-pink-0.0.1.vsix
 | Lavender | #E6E6FA  | 6         |
 | Mint     | #B5EAD7  | 4         |
 
+## Tasks
+
+- [x] Pick background color
+- [x] Audit contrast
+- [ ] ~~Polish yellow undertones~~ (done, switched to Rose Milk)
+- [ ] Ship to marketplace
+
 > Enjoy your pastel coding session!
 
 See [GitHub](https://github.com/ella-theme/macaron-pink) for more.

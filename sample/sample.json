@@ -22,6 +22,18 @@
   "settings": {
     "darkMode": false,
     "fontSize": 14,
-    "fontFamily": null
+    "fontFamily": null,
+    "lineHeight": 1.625,
+    "maxItems": 1000,
+    "discount": -0.15,
+    "precision": 1.23e-4,
+    "breakpoints": [320, 768, 1024, 1440],
+    "nested": {
+      "flags": [true, false, null],
+      "matrix": [
+        [1, 2, 3],
+        [4, 5, 6]
+      ]
+    }
   }
 }
