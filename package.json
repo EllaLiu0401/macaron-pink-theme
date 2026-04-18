@@ -2,7 +2,7 @@
   "name": "pink-lullaby",
   "displayName": "Pink Lullaby",
   "description": "A sweet pastel light theme inspired by French macarons — soft rose milk background with burgundy text. Cozy, cute, and easy on the eyes.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "ella-themes",
   "icon": "icon.png",
   "engines": {
@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ella-themes/pink-lullaby.git"
+    "url": "https://github.com/EllaLiu0401/macaron-pink-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/ella-themes/pink-lullaby/issues"
+    "url": "https://github.com/EllaLiu0401/macaron-pink-theme/issues"
   },
-  "homepage": "https://github.com/ella-themes/pink-lullaby#readme",
+  "homepage": "https://github.com/EllaLiu0401/macaron-pink-theme#readme",
   "contributes": {
     "themes": [
       {

@@ -11,15 +11,15 @@
 
 ## ✨ Preview
 
-![Pink Lullaby — editor preview](./screenshots/01-editor.png)
+![Pink Lullaby — editor preview](https://raw.githubusercontent.com/EllaLiu0401/macaron-pink-theme/main/screenshots/01-editor.png)
 
 ### Syntax up close
 
-![Pink Lullaby — syntax highlighting](./screenshots/02-syntax.png)
+![Pink Lullaby — syntax highlighting](https://raw.githubusercontent.com/EllaLiu0401/macaron-pink-theme/main/screenshots/02-syntax.png)
 
 ### Palette
 
-![Pink Lullaby — palette](./screenshots/03-palette.png)
+![Pink Lullaby — palette](https://raw.githubusercontent.com/EllaLiu0401/macaron-pink-theme/main/screenshots/03-palette.png)
 
 ---
 

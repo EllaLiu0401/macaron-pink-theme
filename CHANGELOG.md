@@ -2,6 +2,11 @@
 
 All notable changes to the **Pink Lullaby** theme will be documented in this file.
 
+## [0.0.4] — Absolute screenshot URLs
+
+- Switch README screenshot paths to absolute GitHub raw URLs so they render reliably on Open VSX
+- Fix `repository`, `bugs`, and `homepage` fields in `package.json` to point to the real GitHub repo
+
 ## [0.0.3] — Republish
 
 - Repackage to refresh marketplace listing
