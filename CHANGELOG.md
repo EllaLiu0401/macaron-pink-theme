@@ -2,6 +2,10 @@
 
 All notable changes to the **Pink Lullaby** theme will be documented in this file.
 
+## [0.0.3] — Republish
+
+- Repackage to refresh marketplace listing
+
 ## [0.0.2] — Screenshots
 
 ### Added
