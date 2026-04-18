@@ -1,0 +1,36 @@
+/* Macaron Pink - CSS preview */
+:root {
+  --cream: #fff8ec;
+  --burgundy: #7a2e3f;
+  --pink: #ffb6c1;
+  --lavender: #e6e6fa;
+  --mint: #b5ead7;
+  --lemon: #fff4a3;
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background: var(--cream);
+    color: var(--burgundy);
+    font-family: "SF Pro", -apple-system, sans-serif;
+  }
+}
+
+.macaron-card {
+  display: flex;
+  gap: 12px;
+  padding: 1rem 1.5rem;
+  border-radius: 16px;
+  background: linear-gradient(135deg, var(--pink) 0%, var(--lavender) 100%);
+  box-shadow: 0 4px 12px rgba(122, 46, 63, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.macaron-card:hover {
+  transform: translateY(-2px) scale(1.02);
+}
+
+.macaron-card[data-limited="true"]::after {
+  content: "⭐ Limited";
+  color: #b8336a;
+}

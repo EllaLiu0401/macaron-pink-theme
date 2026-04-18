@@ -1,0 +1,27 @@
+{
+  "$schema": "https://example.com/macaron.schema.json",
+  "name": "macaron-pink",
+  "version": "0.0.1",
+  "description": "A pastel theme preview",
+  "flavors": [
+    {
+      "name": "Rose",
+      "color": "#FFB6C1",
+      "sweetness": 8,
+      "isLimited": true,
+      "tags": ["floral", "spring"]
+    },
+    {
+      "name": "Lavender",
+      "color": "#E6E6FA",
+      "sweetness": 6,
+      "isLimited": false,
+      "tags": ["floral", "calm"]
+    }
+  ],
+  "settings": {
+    "darkMode": false,
+    "fontSize": 14,
+    "fontFamily": null
+  }
+}

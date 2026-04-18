@@ -1,0 +1,31 @@
+{
+  "name": "macaron-pink",
+  "displayName": "Macaron Pink",
+  "description": "A sweet pastel light theme with macaron-inspired colors. Cream background, burgundy text, and pops of pink, lavender, mint, and lemon.",
+  "version": "0.0.1",
+  "publisher": "ella-theme",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "light",
+    "pink",
+    "pastel",
+    "macaron",
+    "cute",
+    "kawaii"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Macaron Pink",
+        "uiTheme": "vs",
+        "path": "./themes/macaron-pink-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
